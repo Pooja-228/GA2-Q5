@@ -4,31 +4,31 @@
     "version": "10802b54"
   },
   "products": [
-    { "id": "prod-10802b54-001", "name": "Running Shoes Pro", "category": "sports", "price": 67882.13, "stock": 1, "rating": 4.8 },
-    { "id": "prod-10802b54-002", "name": "Wireless Mouse", "category": "electronics", "price": 899.99, "stock": 34, "rating": 4.5 },
-    { "id": "prod-10802b54-003", "name": "Bluetooth Headphones", "category": "electronics", "price": 2499.50, "stock": 20, "rating": 4.6 },
-    { "id": "prod-10802b54-004", "name": "Office Chair", "category": "furniture", "price": 7599.00, "stock": 12, "rating": 4.3 },
-    { "id": "prod-10802b54-005", "name": "Standing Desk", "category": "furniture", "price": 15999.99, "stock": 5, "rating": 4.7 },
-    { "id": "prod-10802b54-006", "name": "Water Bottle", "category": "lifestyle", "price": 499.00, "stock": 100, "rating": 4.2 },
-    { "id": "prod-10802b54-007", "name": "Yoga Mat", "category": "lifestyle", "price": 1299.99, "stock": 40, "rating": 4.4 },
-    { "id": "prod-10802b54-008", "name": "Gaming Keyboard", "category": "electronics", "price": 3499.99, "stock": 15, "rating": 4.6 },
-    { "id": "prod-10802b54-009", "name": "LED Monitor", "category": "electronics", "price": 11999.00, "stock": 8, "rating": 4.5 },
-    { "id": "prod-10802b54-010", "name": "Notebook Pack", "category": "stationery", "price": 299.99, "stock": 200, "rating": 4.1 },
-    { "id": "prod-10802b54-011", "name": "Backpack", "category": "lifestyle", "price": 2199.99, "stock": 25, "rating": 4.4 },
-    { "id": "prod-10802b54-012", "name": "Smart Watch", "category": "electronics", "price": 8999.00, "stock": 10, "rating": 4.7 },
-    { "id": "prod-10802b54-013", "name": "Desk Lamp", "category": "furniture", "price": 1599.99, "stock": 18, "rating": 4.2 },
-    { "id": "prod-10802b54-014", "name": "Mechanical Pencil", "category": "stationery", "price": 99.99, "stock": 300, "rating": 4.0 },
-    { "id": "prod-10802b54-015", "name": "Whiteboard", "category": "furniture", "price": 3499.99, "stock": 7, "rating": 4.3 },
-    { "id": "prod-10802b54-016", "name": "Portable Speaker", "category": "electronics", "price": 4599.00, "stock": 16, "rating": 4.6 },
-    { "id": "prod-10802b54-017", "name": "Gym Gloves", "category": "sports", "price": 899.99, "stock": 50, "rating": 4.3 },
-    { "id": "prod-10802b54-018", "name": "Laptop Stand", "category": "electronics", "price": 1999.99, "stock": 22, "rating": 4.5 },
-    { "id": "prod-10802b54-019", "name": "Planner 2026", "category": "stationery", "price": 499.99, "stock": 120, "rating": 4.2 },
-    { "id": "prod-10802b54-020", "name": "Coffee Mug", "category": "lifestyle", "price": 299.00, "stock": 150, "rating": 4.1 }
+    { "id": "prod-10802b54-001", "name": "Premium Item 1", "category": "home", "price": 296.74, "stock": 136, "rating": 3.9 },
+    { "id": "prod-10802b54-002", "name": "Standard Item 2", "category": "home", "price": 347.25, "stock": 113, "rating": 2.8 },
+    { "id": "prod-10802b54-003", "name": "Premium Item 3", "category": "books", "price": 183.33, "stock": 50, "rating": 3.7 },
+    { "id": "prod-10802b54-004", "name": "Pro Item 4", "category": "clothing", "price": 67.62, "stock": 24, "rating": 1.5 },
+    { "id": "prod-10802b54-005", "name": "Basic Item 5", "category": "home", "price": 405.96, "stock": 104, "rating": 3.6 },
+    { "id": "prod-10802b54-006", "name": "Pro Item 6", "category": "clothing", "price": 488.92, "stock": 160, "rating": 2.1 },
+    { "id": "prod-10802b54-007", "name": "Standard Item 7", "category": "home", "price": 264.81, "stock": 189, "rating": 1 },
+    { "id": "prod-10802b54-008", "name": "Basic Item 8", "category": "books", "price": 401.48, "stock": 79, "rating": 1.7 },
+    { "id": "prod-10802b54-009", "name": "Standard Item 9", "category": "home", "price": 161.12, "stock": 35, "rating": 2.2 },
+    { "id": "prod-10802b54-010", "name": "Basic Item 10", "category": "clothing", "price": 122.48, "stock": 47, "rating": 2 },
+    { "id": "prod-10802b54-011", "name": "Pro Item 11", "category": "clothing", "price": 252.12, "stock": 188, "rating": 4.7 },
+    { "id": "prod-10802b54-012", "name": "Standard Item 12", "category": "home", "price": 230.12, "stock": 198, "rating": 1.4 },
+    { "id": "prod-10802b54-013", "name": "Pro Item 13", "category": "sports", "price": 495.49, "stock": 137, "rating": 2.3 },
+    { "id": "prod-10802b54-014", "name": "Pro Item 14", "category": "clothing", "price": 132.5, "stock": 65, "rating": 2 },
+    { "id": "prod-10802b54-015", "name": "Pro Item 15", "category": "home", "price": 371.71, "stock": 173, "rating": 4.3 },
+    { "id": "prod-10802b54-016", "name": "Standard Item 16", "category": "books", "price": 154.43, "stock": 32, "rating": 4.4 },
+    { "id": "prod-10802b54-017", "name": "Elite Item 17", "category": "electronics", "price": 171.8, "stock": 52, "rating": 1.9 },
+    { "id": "prod-10802b54-018", "name": "Basic Item 18", "category": "electronics", "price": 465.67, "stock": 77, "rating": 2.2 },
+    { "id": "prod-10802b54-019", "name": "Basic Item 19", "category": "books", "price": 209.97, "stock": 1, "rating": 1.1 },
+    { "id": "prod-10802b54-020", "name": "Standard Item 20", "category": "books", "price": 255.2, "stock": 5, "rating": 3.1 }
   ],
   "aggregations": {
     "sports": {
-      "count": 2,
-      "inventoryValue": 112881.63
+      "count": 1,
+      "inventoryValue": 67882.13
     }
   }
 }
