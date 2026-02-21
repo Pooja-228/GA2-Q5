@@ -24,7 +24,7 @@
     { "id": "prod-10802b54-018", "name": "Laptop Stand", "category": "electronics", "price": 1999.99, "stock": 22, "rating": 4.5 },
     { "id": "prod-10802b54-019", "name": "Planner 2026", "category": "stationery", "price": 499.99, "stock": 120, "rating": 4.2 },
     { "id": "prod-10802b54-020", "name": "Coffee Mug", "category": "lifestyle", "price": 299.00, "stock": 150, "rating": 4.1 }
-],
+  ],
   "aggregations": {
     "sports": {
       "count": 2,
