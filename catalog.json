@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "email": "22f3001317@ds.study.iitm.ac.in",
+    "version": "10802b54"
+  },
+  "products": [
+    { "id": "prod-10802b54-001", "name": "Running Shoes Pro", "category": "sports", "price": 67882.13, "stock": 1, "rating": 4.8 },
+    { "id": "prod-10802b54-002", "name": "Wireless Mouse", "category": "electronics", "price": 899.99, "stock": 34, "rating": 4.5 },
+    { "id": "prod-10802b54-003", "name": "Bluetooth Headphones", "category": "electronics", "price": 2499.50, "stock": 20, "rating": 4.6 },
+    { "id": "prod-10802b54-004", "name": "Office Chair", "category": "furniture", "price": 7599.00, "stock": 12, "rating": 4.3 },
+    { "id": "prod-10802b54-005", "name": "Standing Desk", "category": "furniture", "price": 15999.99, "stock": 5, "rating": 4.7 },
+    { "id": "prod-10802b54-006", "name": "Water Bottle", "category": "lifestyle", "price": 499.00, "stock": 100, "rating": 4.2 },
+    { "id": "prod-10802b54-007", "name": "Yoga Mat", "category": "lifestyle", "price": 1299.99, "stock": 40, "rating": 4.4 },
+    { "id": "prod-10802b54-008", "name": "Gaming Keyboard", "category": "electronics", "price": 3499.99, "stock": 15, "rating": 4.6 },
+    { "id": "prod-10802b54-009", "name": "LED Monitor", "category": "electronics", "price": 11999.00, "stock": 8, "rating": 4.5 },
+    { "id": "prod-10802b54-010", "name": "Notebook Pack", "category": "stationery", "price": 299.99, "stock": 200, "rating": 4.1 },
+    { "id": "prod-10802b54-011", "name": "Backpack", "category": "lifestyle", "price": 2199.99, "stock": 25, "rating": 4.4 },
+    { "id": "prod-10802b54-012", "name": "Smart Watch", "category": "electronics", "price": 8999.00, "stock": 10, "rating": 4.7 },
+    { "id": "prod-10802b54-013", "name": "Desk Lamp", "category": "furniture", "price": 1599.99, "stock": 18, "rating": 4.2 },
+    { "id": "prod-10802b54-014", "name": "Mechanical Pencil", "category": "stationery", "price": 99.99, "stock": 300, "rating": 4.0 },
+    { "id": "prod-10802b54-015", "name": "Whiteboard", "category": "furniture", "price": 3499.99, "stock": 7, "rating": 4.3 },
+    { "id": "prod-10802b54-016", "name": "Portable Speaker", "category": "electronics", "price": 4599.00, "stock": 16, "rating": 4.6 },
+    { "id": "prod-10802b54-017", "name": "Gym Gloves", "category": "sports", "price": 899.99, "stock": 50, "rating": 4.3 },
+    { "id": "prod-10802b54-018", "name": "Laptop Stand", "category": "electronics", "price": 1999.99, "stock": 22, "rating": 4.5 },
+    { "id": "prod-10802b54-019", "name": "Planner 2026", "category": "stationery", "price": 499.99, "stock": 120, "rating": 4.2 },
+    { "id": "prod-10802b54-020", "name": "Coffee Mug", "category": "lifestyle", "price": 299.00, "stock": 150, "rating": 4.1 }
+  },
+  "aggregations": {
+    "sports": {
+      "count": 2,
+      "inventoryValue": 112881.63
+    }
+  }
+}
